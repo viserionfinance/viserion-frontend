@@ -1,0 +1,50 @@
+{
+  "name": "Metis DeFi Tokens",
+  "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
+  "keywords": [
+    "metis",
+    "defi",
+    "dex",
+    "andromeda"
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2021-12-31T16:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1088,
+      "address": "0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28",
+      "decimals": 18,
+      "name": "AAVE Token",
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x87DD4a7Ad23B95cD9fF9C26B5cF325905CaF8663",
+      "decimals": 18,
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/CRV/logo.png"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+      "decimals": 18,
+      "name": "Netswap Token",
+      "symbol": "NETT",
+      "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x445ea60f4ace3d8794369379e68fa0f76af06b02",
+      "decimals": 18,
+      "name": "Poly-Peg CAKE",
+      "symbol": "CAKE",
+      "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
+    }
+  ]
+}
